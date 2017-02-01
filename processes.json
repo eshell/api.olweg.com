@@ -1,0 +1,7 @@
+{
+	"apps": [{
+			"name": "ogapp",
+			"script": "index.js",
+			"watch": true 
+		}]
+}
